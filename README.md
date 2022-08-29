@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mahmoud6k
 - 👀 I’m interested in Cloud Computing and AWS
 - 🌱 I’m currently learning DevOps
-- 
-<!--- 💞️ I’m looking to collaborate on ...
+<!--- 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
 <!---
